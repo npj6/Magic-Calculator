@@ -1,0 +1,92 @@
+1 Ancient Tomb
+1 Bountiful Promenade
+1 Breeding Pool
+1 Cavern of Souls
+1 Command Tower
+1 Exotic Orchard
+5 Forest
+1 Irrigated Farmland
+3 Island
+1 Krosan Verge
+1 Morphic Pool
+2 Mountain
+1 Murmuring Bosk
+1 Myriad Landscape
+1 Overgrown Tomb
+1 Path of Ancestry
+2 Plains
+1 Reflecting Pool
+1 Sea of Clouds
+1 Sheltered Thicket
+3 Swamp
+1 Temple of the False God
+1 Unclaimed Territory
+1 Urborg, Tomb of Yawgmoth
+1 Watery Grave
+1 Anguished Unmaking
+1 Artificial Evolution
+1 Austere Command
+1 Cairn Wanderer
+1 Call to the Kindred
+1 Chameleon Colossus
+1 Chromatic Lantern
+1 Chromium, the Mutable
+1 Coat of Arms
+1 Congregation at Dawn
+1 Cultivate
+1 Cyclonic Rift
+1 Deadeye Navigator
+1 Demonic Tutor
+1 Demonlord Belzenlok
+1 Door of Destinies
+1 Dragon Tempest
+1 Dragon's Hoard
+1 Dragonlord Atarka
+1 Dragonlord Dromoka
+1 Dragonlord Kolaghan
+1 Dragonlord Ojutai
+1 Dragonlord Silumgar
+1 Eladamri's Call
+1 Etali, Primal Storm
+1 Faeburrow Elder
+1 Forerunner of the Empire
+1 Ghalta, Primal Hunger
+1 Graveshifter
+1 Helm of the Host
+1 Herald's Horn
+1 Kindred Discovery
+1 Kindred Dominance
+1 Kodama's Reach
+1 Kroxa, Titan of Death's Hunger
+1 Morophon, the Boundless
+1 Nezahal, Primal Tide
+1 Nicol Bolas
+1 Nicol Bolas, the Ravager
+1 Odric, Lunarch Marshal
+1 Palladia-Mors, the Ruiner
+1 Phyrexian Arena
+1 Primevals' Glorious Rebirth
+1 Return of the Wildspeaker
+1 Rhystic Study
+1 Sakura-Tribe Elder
+1 Sarkhan Unbroken
+1 Smothering Tithe
+1 Sol Ring
+1 Sphinx's Revelation
+1 Sylvan Library
+1 Tetzimoc, Primal Death
+1 Thran Dynamo
+1 Toxic Deluge
+1 Uro, Titan of Nature's Wrath
+1 Urza's Incubator
+1 Urza's Ruinous Blast
+1 Vaevictis Asmadi, the Dire
+1 Vampiric Tutor
+1 Vanquisher's Banner
+1 Worn Powerstone
+1 Yavimaya Elder
+1 Zacama, Primal Calamity
+1 Zendikar Resurgent
+1 Zetalpa, Primal Dawn
+
+Sideboard:

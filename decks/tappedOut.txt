@@ -1,0 +1,94 @@
+1 Anguished Unmaking (SOI) 242
+1 Arcane Sanctum (MYS1) 232
+1 Artificial Evolution (ONS)
+1 Arvad the Cursed (DAR) 191
+1 Blood Crypt (RNA) 245
+1 Breeding Pool (RNA) 246
+1 Bring to Light (BFZ) 209
+1 Cairn Wanderer (C20) 130
+1 Cascading Cataracts (AKH) 240
+1 Chameleon Colossus (C15) 178
+1 Charmbreaker Devils (JMP) 303
+1 Chromatic Lantern (GRN) 233
+1 Chromium, the Mutable (M19) 214
+1 Circuitous Route (GRN) 125
+1 Coat of Arms (MYS1) 58
+1 Command Tower (C20) 264
+1 Conflux (CON) 202
+1 Cultivate (M21) 177
+1 Cyclonic Rift (MM3) 35
+1 Demonic Tutor (MYS1) 93
+1 Demonlord Belzenlok (DAR) 86
+1 Dragonlord Atarka (DTK) 216
+1 Dragonlord Dromoka (DTK) 217
+1 Dragonlord Kolaghan (DTK) 218
+1 Dragonlord Ojutai (MYS1) 219
+1 Dragonlord Silumgar (DTK) 220
+1 Enlightened Tutor (EMA) 9
+1 Etali, Primal Storm (JMP) 314
+1 Exotic Orchard (C20) 273
+1 Explosive Vegetation (MYS1) 144
+1 Farseek (MYS1) 165
+1 Fellwar Stone (C17) 210
+1 Fist of Suns (C17) 211
+1 Forerunner of the Empire (RIX) 102
+3 Forest (JMP) 70
+1 Frontier Bivouac (C20) 275
+1 Ghalta, Primal Hunger (JMP) 399
+1 Godless Shrine (RNA) 248
+1 Grand Coliseum (C16) 299
+1 Hallowed Fountain (RNA) 251
+1 Herald's Horn (JMP) 469
+1 Heroes' Podium (BNG) 159
+1 In Garruk's Wake (C19) 121
+2 Island (JMP) 46
+1 Jodah, Archmage Eternal (DAR) 198
+1 Jungle Shrine (MYS1) 255
+1 Kodama's Reach (C20) 180
+1 Krosan Verge (C20) 285
+1 Merciless Eviction (C17) 179
+1 Mirari's Wake (C17) 181
+1 Mirrodin's Core (JMP) 492
+2 Mountain (JMP) 62
+1 Muldrotha, the Gravetide (DAR) 199
+1 Murmuring Bosk (C16) 308
+1 Mystic Confluence (BBD) 122
+1 Mystical Tutor (EMA) 62
+1 Nezahal, Primal Tide (RIX) 45
+1 Nicol Bolas (ME3) 163
+1 Nicol Bolas, the Ravager (M19) 218
+1 Opulent Palace (C20) 295
+1 Overgrown Tomb (GRN) 253
+1 Painful Truths (C20) 134
+1 Palladia-Mors, the Ruiner (M19) 219
+1 Path of Ancestry (C20) 298
+1 Phyrexian Arena (MYS1) 144
+2 Plains (JMP) 38
+1 Primevals' Glorious Rebirth (DAR) 201
+1 Reflecting Pool (CNS) 210
+1 Sacred Foundry (GRN) 254
+1 Sakura-Tribe Elder (C20) 187
+1 Sarkhan Unbroken (WARMED) 8
+1 Savage Lands (C18) 275
+1 Seaside Citadel (C18) 277
+1 Shard Convergence (CON)
+1 Skyshroud Claim (BBD) 213
+1 Sphinx's Revelation (MM3) 187
+1 Steam Vents (GRN) 257
+1 Stomping Ground (RNA) 259
+1 Supreme Verdict (MYS1) 201
+2 Swamp (JMP) 54
+1 Sylvan Library (EMA) 187
+1 Temple Garden (GRN) 258
+1 Tempt with Discovery (MYS1) 183
+1 Tetzimoc, Primal Death (RIX) 86
+1 Vaevictis Asmadi, the Dire (M19) 225
+1 Vampiric Tutor (EMA) 112
+1 Vandalblast (C15) 170
+1 Vanquisher's Banner (XLN) 251
+1 Vivid Grove (C17) 291
+1 Watery Grave (GRN) 259
+1 Yavimaya Elder (MYS1) 166
+1 Zacama, Primal Calamity (RIX) 174
+1 Zendikar Resurgent (C17) 160
+1 Zetalpa, Primal Dawn (C20) 107

@@ -1,0 +1,33 @@
+// 60 Maindeck
+// 4 Artifact
+4 Springleaf Drum
+
+// 25 Creature
+4 Carrion Feeder
+3 Viscera Seer
+4 Ashen-Skin Zubera
+4 Dripping-Tongue Zubera
+4 Mulldrifter
+2 Crypt Rats
+4 Floating-Dream Zubera
+
+// 1 Enchantment
+1 Kaya's Ghostform
+
+// 6 Instant
+4 Supernatural Stamina
+2 Undying Evil
+
+// 20 Land
+8 Swamp
+1 Island
+1 Forest
+2 Crumbling Vestige
+4 Ash Barrens
+4 Holdout Settlement
+
+// 4 Sorcery
+2 Unearth
+2 Chainer's Edict
+
+
