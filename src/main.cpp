@@ -1,8 +1,9 @@
-#include "deckManager.h"
+#include "deck.h"
 #include <iostream>
+#include <ncurses.h>
 
 int main (void) {
-  MTGCALC::DeckManager dm;
+  MTGCALC::Deck dm;
   dm.addCard("NOMBRE", 23);
   std::cout << dm.deckList() << std::endl;
   return 0;

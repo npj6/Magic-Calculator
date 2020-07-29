@@ -1,8 +1,8 @@
 #include "catch2/catch.hpp"
-#include "deckManager.h"
+#include "deck.h"
 
 TEST_CASE("Decklist is modified") {
-  MTGCALC::DeckManager dm;
+  MTGCALC::Deck dm;
   REQUIRE(dm.deckList() == "");
 
   dm.addCard("Card 1", 2);

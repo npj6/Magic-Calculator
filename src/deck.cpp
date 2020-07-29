@@ -1,6 +1,6 @@
-#include "deckManager.h"
+#include "deck.h"
 
-unsigned MTGCALC::DeckManager::findCard(const std::string &name) {
+unsigned MTGCALC::Deck::findCard(const std::string &name) {
   for(unsigned i=0; i<cards.size(); i++) {
     if(cards[i].name == name) {
       return i;
@@ -9,7 +9,7 @@ unsigned MTGCALC::DeckManager::findCard(const std::string &name) {
   throw std::runtime_error("no card named "+name);
 }
 
-void MTGCALC::DeckManager::addCard(const std::string &name, unsigned copies) {
+void MTGCALC::Deck::addCard(const std::string &name, unsigned copies) {
   try {
     cards[findCard(name)].copies += copies;
   } catch (const std::runtime_error &e) {
@@ -17,22 +17,22 @@ void MTGCALC::DeckManager::addCard(const std::string &name, unsigned copies) {
   }
 }
 
-void MTGCALC::DeckManager::deleteCard(unsigned position) {
+void MTGCALC::Deck::deleteCard(unsigned position) {
   if(position < cards.size()) { cards.erase(cards.begin() + position); }
 }
 
-MTGCALC::Card MTGCALC::DeckManager::getCard(unsigned position) {
+MTGCALC::Card MTGCALC::Deck::getCard(unsigned position) {
   if(position < cards.size()) { return cards[position]; }
 }
 
-void MTGCALC::DeckManager::modifyCard(unsigned position, unsigned newCopies) {
+void MTGCALC::Deck::modifyCard(unsigned position, unsigned newCopies) {
   if(position < cards.size()) { cards[position].copies = newCopies; }
 }
-void MTGCALC::DeckManager::modifyCard(unsigned position, const std::string newName) {
+void MTGCALC::Deck::modifyCard(unsigned position, const std::string newName) {
   if(position < cards.size()) { cards[position].name = newName; }
 }
 
-std::string MTGCALC::DeckManager::deckList(void) {
+std::string MTGCALC::Deck::deckList(void) {
   std::string output;
   for(unsigned i=0; i<cards.size(); i++) {
     output.push_back('#');
