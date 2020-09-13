@@ -6,8 +6,6 @@
   #include <stdexcept>
   #include <fstream>
 
-  #include<iostream>
-
   namespace MTGCALC {
 
     typedef struct Card_T {

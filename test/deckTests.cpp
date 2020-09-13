@@ -143,6 +143,7 @@ TEST_CASE("Deck is read from file") {
       6, 4, 3, 4, 3, 3, 4, 3, 2, 6, 2, 4, 4, 3, 4, 3, 2
     };
     cardsExist(deck, names, copies);
+    file.close();
   }
 
   SECTION("cockatrice") {
@@ -152,6 +153,7 @@ TEST_CASE("Deck is read from file") {
     std::vector<std::string> names = {};
     std::vector<unsigned> copies = {};
     cardsExist(deck, names, copies);
+    file.close();
   }
 
   SECTION("deckbox") {
@@ -257,6 +259,7 @@ TEST_CASE("Deck is read from file") {
       1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
     };
     cardsExist(deck, names, copies);
+    file.close();
   }
 
   SECTION("mtgGoldfish") {
@@ -290,6 +293,7 @@ TEST_CASE("Deck is read from file") {
       2, 2, 2, 4, 3, 4, 3, 2, 4, 2, 4, 1, 3, 2, 2, 3, 3, 4, 3, 3, 4
     };
     cardsExist(deck, names, copies);
+    file.close();
   }
 
   SECTION("tappedOut") {
@@ -399,5 +403,6 @@ TEST_CASE("Deck is read from file") {
       1, 1, 1, 1, 2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1
     };
     cardsExist(deck, names, copies);
+    file.close();
   }
 }
