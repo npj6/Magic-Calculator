@@ -16,13 +16,3 @@ Deck
 4 Priest of Forgotten Gods
 3 Woe Strider
 2 Chandra, Acolyte of Flame
-
-Sideboard
-4 Agonizing Remorse
-2 Terror of the Peaks
-1 Claim the Firstborn
-2 Bedevil
-1 Embereth Shieldbreaker
-1 Murderous Rider
-2 Erebos's Intervention
-2 Thought Distortion

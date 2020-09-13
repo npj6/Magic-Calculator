@@ -4,6 +4,9 @@
   #include <vector>
   #include <string>
   #include <stdexcept>
+  #include <fstream>
+
+  #include<iostream>
 
   namespace MTGCALC {
 
@@ -13,6 +16,7 @@
       Card_T (const std::string &n, unsigned c) { name = n; copies = c; }
     } Card;
 
+
     class Deck {
       private:
         std::vector<Card> cards;
@@ -21,16 +25,19 @@
       public:
         Deck() {};
 
+        Deck(std::ifstream &file);
+
         void addCard(const std::string &name, unsigned copies);
 
         void deleteCard(unsigned position);
 
-        Card getCard(unsigned position);
-
         void modifyCard(unsigned position, unsigned newCopies);
-        void modifyCard(unsigned position, const std::string newName);
+        void modifyCard(unsigned position, const std::string &newName);
 
-        std::string deckList(void);
+        //trusted while testing
+        std::string deckList(void) const;
+        unsigned getCardCount() const;
+        Card getCard(unsigned position) const;
     };
   }
 

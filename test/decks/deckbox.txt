@@ -88,5 +88,3 @@
 1 Zacama, Primal Calamity
 1 Zendikar Resurgent
 1 Zetalpa, Primal Dawn
-
-Sideboard:
